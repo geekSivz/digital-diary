@@ -1,0 +1,37 @@
+{
+	"feeds": [
+      {
+        "id": 1,
+        "name": "Jame Ford",
+        "submittedDateTime": "2022-21-08 21:56:50",
+        "profileImgeUrl": "av1.jpeg",
+        "shortDescription": "",
+        "longDescription": "",
+        "feedType": "image",
+        "feedDataInfo": "",
+        "isPrivateFeed": false
+      },
+      {
+        "id": 2,
+        "name": "Ashley Warner",
+        "submittedDateTime": "2022-21-08 21:56:50",
+        "profileImgeUrl": "av2.jpeg",
+        "shortDescription": "",
+        "longDescription": "",
+        "feedType": "image",
+        "feedDataInfo": "",
+        "isPrivateFeed": false
+      },
+      {
+        "id": 3,
+        "name": "Jos Walker",
+        "submittedDateTime": "2022-21-08 21:56:50",
+        "profileImgeUrl": "av3.jpeg",
+        "shortDescription": "",
+        "longDescription": "",
+        "feedType": "image",
+        "feedDataInfo": "",
+        "isPrivateFeed": false
+      }
+    ]
+}
